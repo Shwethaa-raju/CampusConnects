@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\campusConnects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_assignment_turned_in_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_turned_in_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_attachlist.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\attachlist.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_notification_important_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_notification_important_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_assignment_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_adminlistview.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\adminlistview.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chat_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_chat_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_courselist.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\courselist.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course_dashboard.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_course_dashboard.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_dashboard.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_faculty_dashboard.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_announcement_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_announcement_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_discuslist.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\discuslist.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new_course.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_add_new_course.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_dash_board.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_student_dash_board.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_attachment_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_attachment_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_wb_incandescent_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_wb_incandescent_24.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_studentsend_message.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_studentsend_message.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_approvallist.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\approvallist.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_course_reg.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_user_course_reg.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_adannounce.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_adannounce.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_dashboard.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_material.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_upload_material.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_announcelist.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\announcelist.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_user.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "D:\\campusConnects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "D:\\campusConnects\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    }
+]
